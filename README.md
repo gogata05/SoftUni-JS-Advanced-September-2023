@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/j6TTUpi.png" alt="Certificate"/>
+<img src="https://i.imgur.com/j6TTUpi.png" alt="Certificate"/> 
 
 ### 📚 JS Advanced - September 2023
 
