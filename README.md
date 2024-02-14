@@ -1,5 +1,5 @@
 <img src="https://i.imgur.com/j6TTUpi.png" alt="Certificate"/> 
-
+ 
 ### 📚 JS Advanced - September 2023
 
 Welcome to the JS Advanced - September 2023 course repository! In this course, participants will gain in-depth knowledge of the JavaScript language, covering syntax basics, working with arrays, matrices, objects, classes, and writing functions. More advanced concepts such as function context, explicit binding, and the event loop will be explored.
