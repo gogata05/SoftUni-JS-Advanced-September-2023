@@ -1,5 +1,5 @@
 <img src="https://i.imgur.com/j6TTUpi.png" alt="Certificate"/> 
- 
+  
 ### 📚 SoftUni-JS-Advanced-September-2023
 
 ### 🎓 Course Link - [Here](https://softuni.bg/trainings/4227/js-advanced-september-2023)
