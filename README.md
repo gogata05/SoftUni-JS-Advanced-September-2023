@@ -2,7 +2,7 @@
  
 ### 📚 SoftUni-JS-Advanced-September-2023
 
-### 🎓 Course Link - [Here](https://softuni.bg/trainings/4228/js-applications-october-2023)
+### 🎓 Course Link - [Here](https://softuni.bg/trainings/4227/js-advanced-september-2023)
 
 Welcome to the JS Advanced - September 2023 course repository! In this course, participants will gain in-depth knowledge of the JavaScript language, covering syntax basics, working with arrays, matrices, objects, classes, and writing functions. More advanced concepts such as function context, explicit binding, and the event loop will be explored.
 
